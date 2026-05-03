@@ -30,8 +30,8 @@ Este projeto utiliza o driver JDBC do MySQL:
 ## 🗂️ Estrutura do Projeto
 
 📁 src/
-┗ 📂 cadastroprodutos/
-┣ 📜 CadastroProdutos.java
+┗ 📂 cadastroproduto/
+┣ 📜 CadastroProduto.java
 ┣ 📜 Produto.java
 ┣ 📜 ProdutoDAO.java
 ┣ 📜 ScannerInput.java
@@ -46,7 +46,7 @@ Este projeto utiliza o driver JDBC do MySQL:
 ## 🛠️ Como executar o projeto
 
 1. Clone o repositório:
-<pre> ```bash git clone https://github.com/PedroCarmo01/análise de produto java-mysql-excel.git ``` </pre>
+<pre> ```bash git clone https://github.com/PedroCarmo01/java-mysql-excel-product-analysis.git ``` </pre>
 
 2. Configure o banco de dados MySQL:
 - Execute o script localizado em:
